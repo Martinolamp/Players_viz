@@ -1,7 +1,8 @@
 # 📈 Analiza Danych: [Tytuł Twojego Projektu]
 
 
-![Python](https://img.shields.io/badge/%20%7C%20PowerBi%20%7C%20PowerQuery)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-005E4E?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ## 📖 O projekcie
 Exploratory analysis of players dataser 
