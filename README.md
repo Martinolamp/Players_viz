@@ -1,20 +1,18 @@
 # 📈 Analiza Danych: [Tytuł Twojego Projektu]
 
-![Status](https://img.shields.io/badge/Status-Complete-success)
-![Python](https://img.shields.io/badge/Tools-Python%20%7C%20Pandas%20%7C%20Seaborn-blue)
+
+![Python](https://img.shields.io/badge/%20%7C%20PowerBi%20%7C%20PowerQuery)
 
 ## 📖 O projekcie
-Krótki opis, dlaczego ta analiza powstała i jakie pytania postawiliśmy na starcie. 
+Exploratory analysis of players dataser 
 
 ---
 
 ## 🚀 Główne Wnioski (TL;DR)
 > [!IMPORTANT]
-> Tutaj wpisz najważniejszą rzecz, którą odkryłeś. GitHub fajnie formatuje takie bloki "Alertów".
+> Showing the importance of detailed visualisation of dataset and how simple measures can influence the measures.
 
-* **Obserwacja 1:** Wzrost efektywności o **20%**.
-* **Obserwacja 2:** Wykryto korelację między czynnikiem A i B.
-* **Obserwacja 3:** Model osiągnął dokładność na poziomie $R^2 = 0.94$.
+
 
 ---
 
