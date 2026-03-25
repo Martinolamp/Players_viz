@@ -11,7 +11,7 @@ Exploratory analysis of players dataser
 
 ## 🚀 Główne Wnioski (TL;DR)
 > [!IMPORTANT]
-> Showing the importance of detailed visualisation of dataset and how simple measures can influence the measures.
+> Showing the importance of detailed visualisation of dataset and hhow simple measures can fool you.
 
 
 
