@@ -32,6 +32,7 @@ Exploratory analysis of players dataser
 
 > To overcome that issue I ' ve decided to aggregate the players valuation in a year perioids using max value as aggregation measure.
 
+![Players aggregation](Players_aggreagtion_by_year.png.png)
 
 ### 2. Wizualizacje kluczowe
 
