@@ -6,6 +6,7 @@
 
 ## 📖 O projekcie
 Exploratory analysis of players dataser 
+![Demo Dashboardu](.assets/gifs/Vizualizacja_power_bi.gif)
 
 ---
 
