@@ -6,7 +6,7 @@
 
 ## 📖 O projekcie
 Exploratory analysis of players dataser 
-![Demo Dashboardu](.assets/gifs/Vizualizacja_power_bi.gif)
+![Dashboard Demo](./assets/gifs/Vizualizacja_power_bi.gif)
 
 ---
 
@@ -30,5 +30,5 @@ Exploratory analysis of players dataser
 ---
 
 <p align="center">
-  Stworzone z ☕ i danymi przez <b>[Twoje Imię/Nick]</b>
+  Stworzone z ☕ i danymi
 </p>
