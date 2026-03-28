@@ -22,7 +22,9 @@ Exploratory analysis of players dataser
 
 > Analyzed Data Set concerns selected sample of players. I' ve created some measures to make analysis easier and more meaningfull. Moreover I wanted to show the importance of validation, and critical thinking when it comes to basic statistical measures interpretaion.
 
-### 1. Rozkład danych i czyszczenie
+### 1. Data Cleaning and modeling
+
+![Valuation issue](Multiple_valuation_per_year.png)
 
 
 ### 2. Wizualizacje kluczowe
