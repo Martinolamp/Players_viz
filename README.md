@@ -1,4 +1,4 @@
-# 📈 Analiza Danych: [Tytuł Twojego Projektu]
+# 📈 Kaggle Players Visualisation
 
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -10,10 +10,9 @@ Exploratory analysis of players dataser
 
 ---
 
-## 🚀 Keeping Long story short :)
+## 🚀 Keeping the long story short (TL;DR)
 > [!IMPORTANT]
-> Showing the importance of detailed visualisation of dataset and how simple measures can affect your opinion
-
+> Showing the importance of detailed visualisation of dataset and how simple measures badly affect your opinion
 
 
 ---
@@ -34,15 +33,26 @@ Exploratory analysis of players dataser
 
 ![Players aggregation](Players_aggreagtion_by_year.png)
 
-### 2. Vizualizations
+### 2. Final Visualisation
 
-> I' ve decided tha visualization should focus on detailed career statistics related to selected players and league comparisons.
+> Front page of players visualisation dashboard below
+
+![Players visualisation](./assets/Pictures/Players_front_dashboard.png)
 
 
-![Players aggregation](Players_aggreagtion_by_year.png)
+
+> Picture below shows the importance of detailed analysis of dataset that you are dealing with.
+> Relaying just on basics simple statistical parameters like mean and average could lead to wrong conclusions
+For example the average value of Portugeese clubs players is similar to the value of players playing in Budesliga or Serie A, but it's worth to highlight ther significant less players from Portugaeese league are present in analyzed dataset than 
+
+
+
+![Basic statistical parameters](./assets/Pictures/Median_count_dashboard.png)
+
+
 
 ---
 
 <p align="center">
-  Stworzone z ☕ i danymi
+  Created with ☕ and data 
 </p>
