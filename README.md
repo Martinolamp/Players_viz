@@ -43,7 +43,7 @@ Exploratory analysis of players dataser
 
 > Picture below shows the importance of detailed analysis of dataset that you are dealing with.
 > Relaying just on basics simple statistical parameters like mean and average could lead to wrong conclusions
-For example the average value of Portugeese clubs players is similar to the value of players playing in Budesliga or Serie A, but it's worth to highlight ther significant less players from Portugaeese league are present in analyzed dataset than 
+For example the average value of Portugeese clubs players is similar to the value of players playing in Budesliga or Serie A, but it's worth to highlight ther significant less players from Portugeese league are present in analyzed dataset than 
 
 
 
