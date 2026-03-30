@@ -24,7 +24,7 @@ Exploratory analysis of players dataser
 ### 1. Data Cleaning and modeling
 
 > The first "quality" issue that I spotted was related to irregular evaluation of selected players during a year.
-> Vaule of some players were evaluated once a year wherease value of the others were evaluated 6 times a years, what could make comparisons unfair.
+> Vaule of some players were evaluated once a year wherease value of the others were evaluated 6 times a years, what could make comparisons biased
 
 
 ![Valuation issue](Multiple_valuation_per_year.png)
