@@ -55,5 +55,5 @@ For example the average value of Portugeese clubs players is similar to the valu
 ---
 
 <p align="center">
-  Stworzone z ☕ i danymi
+  Created with ☕ and data 
 </p>
