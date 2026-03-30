@@ -10,7 +10,7 @@ Exploratory analysis of players dataser
 
 ---
 
-## 🚀 Keeping the long story short (TL;DR)
+## 🚀 Keeping the long story short 
 > [!IMPORTANT]
 > Showing the importance of detailed visualisation of dataset and how simple measures badly affect your opinion
 
